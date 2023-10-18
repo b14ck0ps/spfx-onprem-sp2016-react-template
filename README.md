@@ -6,6 +6,8 @@ _Framework: SharePoint Framework (SPFx) 1.6.0 X React_
 _Server: SharePoint 2016 On-Premises_
 
 
+<img src="./docs/assets/spfxlive.gif" atl="profile">
+
 This guide will help you set up and run SharePoint Framework (SPFx) projects using the following dependencies:
 
 - `@microsoft/generator-sharepoint@1.6.0`
